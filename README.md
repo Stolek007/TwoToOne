@@ -1,0 +1,2 @@
+# TwoToOne
+JavaScript Codewars Exercise
